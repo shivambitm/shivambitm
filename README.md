@@ -68,7 +68,7 @@ me.say_hi()
 <a href="https://dev.to/shivammavihs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shivammavihs" height="40" width="50" /></a>
 <a href="https://twitter.com/solvableparadox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="solvableparadox" height="40" width="50" /></a>
 <a href="https://codesandbox.com/shivammavihs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="shivammavihs" height="40" width="50" /></a>
-<a href="https://www.leetcode.com/deleted" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="deleted" height="40" width="50" /></a>
+<!-- <a href="https://www.leetcode.com/deleted" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="deleted" height="40" width="50" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -77,6 +77,11 @@ me.say_hi()
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/striver"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="striver" /></a><a href="https://ko-fi.com/striver"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="striver" /></a></p><br><br>
 
+
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="blue line"></center>
+</p>
 
 
 # Github <🔧 Technologies & Tools/>: 📊
