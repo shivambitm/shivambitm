@@ -63,11 +63,9 @@ me.say_hi()
 <p align="left">
 <a href="https://linkedin.com/in/shivam-kumar-bitian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam-kumar-bitian" height="30" width="40" /></a>
 <a href="https://instagram.com/unsolvableparadox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="unsolvableparadox" height="30" width="40" /></a>
-  
-  
-<a href="https://dev.to/shivammavihs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shivammavihs" height="40" width="50" /></a>
-<a href="https://twitter.com/solvableparadox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="solvableparadox" height="40" width="50" /></a>
-<a href="https://codesandbox.com/shivammavihs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="shivammavihs" height="40" width="50" /></a>
+<a href="https://dev.to/shivammavihs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shivammavihs" height="30" width="40" /></a>
+<a href="https://twitter.com/solvableparadox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="solvableparadox" height="30" width="40" /></a>
+<a href="https://codesandbox.com/shivammavihs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="shivammavihs" height="30" width="40" /></a>
 <!-- <a href="https://www.leetcode.com/deleted" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="deleted" height="40" width="50" /></a> -->
 </p>
 
