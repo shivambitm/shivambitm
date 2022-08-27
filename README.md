@@ -52,6 +52,13 @@ me.say_hi()
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="blue line"></center>
 </p>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/shivam-kumar-bitian/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam-kumar-bitian/" height="40" width="50" /></a>
+<a href="https://twitter.com/solvableparadox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amisha0607" height="30" width="40" /></a>
+</p>
+</br>
+
 # Github <🔧 Technologies & Tools/>: 📊
 
 <table>
