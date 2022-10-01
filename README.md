@@ -13,11 +13,11 @@
 # -*- coding: utf-8 -*-
 
 
-class Software Engineer:
+class Software Developer:
 
     def __init__(self):
         self.name = "Shivam Kumar"
-        self.role = "Software Engineer"
+        self.role = "Software Developer"
         self.company = "Tata Motors Group"
         self.improving = "DSA Concepts"
         self.language_spoken = ["English", "Hindi"]
@@ -26,7 +26,7 @@ class Software Engineer:
         print("Happy to see you, hope you find some of my work interesting.")
 
 
-me = Software Engineer()
+me = Software Developer()
 me.say_hi()
 ```
 <p align="center">
@@ -44,7 +44,7 @@ me.say_hi()
 - 👯 I’m looking to collaborate on exciting Projects and Hackathons
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shivamkumar0611/)
 - And, my favourite emoji is :smiling_face_with_tear:
-- In meanwhile I understand and implement the fundamentals of computer engineering and learning web development - React, web3 and much more xD
+- In meanwhile I understand and implement the fundamentals of Computer Science and learning web development - React, web3 and much more xD
 - Today's learning - Never ever break someone's trust
 - Pronouns: He/Him
 
